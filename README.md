@@ -96,8 +96,8 @@ Step14. click on debug and simulate using simulation as shown below
  
 ## STM 32 CUBE PROGRAM :
 ```
-Developed By: Rasika.M
-Registration No: 212222230117
+Developed By: M.Pavithra
+Registration No: 212222100032
 
 HAL_TIM_Base_Start(&htim2);
 HAL_TIM_PWM_Init(&htim2);
